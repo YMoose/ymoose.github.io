@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ymoose.blog)
 [![CodeQL Advanced](https://github.com/YMoose/ymoose.github.io/actions/workflows/codeql.yml/badge.svg?branch=dev)](https://github.com/YMoose/ymoose.github.io/actions/workflows/codeql.yml)
-[![Umami - GDPR compliant alternative to Google Analytics](https://img.shields.io/badge/analytics-umami-green)](https://analytics.umami.is/share/ "Umami - GDPR compliant alternative to Google Analytics")
+[![Umami - GDPR compliant alternative to Google Analytics](https://img.shields.io/badge/analytics-umami-green)](https://cloud.umami.is/share/gEprQTvIdyOGAlhW/ymoose.github.io "Umami - GDPR compliant alternative to Google Analytics")
 [![License EUPL 1.2](https://img.shields.io/badge/License-EUPL--1.2-blue.svg)](LICENSE)
 [![Follow Moose on GitHub](https://img.shields.io/github/followers/YMoose?label=YMoose&style=social)](https://github.com/YMoose "Follow Moose on GitHub")
 
